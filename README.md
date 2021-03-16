@@ -4,7 +4,7 @@
 #### External Links
 
 * Website: [https://jon-kelley.com/resume.md](https://jon-kelley.com/resume.md?render=true&theme=markdown10) 
-* Resume: [https://jon-kelley.com/resume.md](https://jon-kelley.com/resume.md?render=true&theme=markdown10) 
+* Resume: [https://jon-kelley.com](https://jon-kelley.com/) 
 * LinkedIn: [https://linkedin.com/in/jonathandkelley/](https://linkedin.com/in/jonathandkelley/) 
 * Keybase: https://keybase.io/jondkelley
 * E-Mail: jonk@omg.lol
